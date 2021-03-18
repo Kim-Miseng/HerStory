@@ -2,12 +2,12 @@
 baseurl: "/Girls-Coding-Day-Jekyll-blog-4"
 
 # 网页的标题
-title: "HerStory: Katie Bouman"
+title: "HER Story"
 username: Miseng.K
 # 网站副标题
-description: "The woman behind the first black hole picture"
+description: "share your #HERstory "
 
-abouther: "A 29-year-old computer scientist has earned plaudits worldwide for helping develop the algorithm that created the first-ever image of a black hole."
+abouther: "_Supported by UN WOMAN, UN DP, Coding girls club_"
 
 # 其它配置, 可忽略, 无需修改
 markdown: kramdown
